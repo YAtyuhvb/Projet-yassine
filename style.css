@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+    background-color: rgb(206, 212, 210);
+}
+
+
+.titre{
+    color: blue;
+
+
+}
+.navbar{
+    display:inline
+    
+
+}
+ 
+    
+
+.TO{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #be8080;
+    
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgba(255, 255, 255, 0.642);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.section1{
+    background-color: beige;
+    font-family: monospace;
+    color: blue;
+    font-size: 12px;
+}
+
